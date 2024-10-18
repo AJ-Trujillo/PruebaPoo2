@@ -1,5 +1,5 @@
 package com.unu.poo2.model;
 
-public class AutorModel {
+public class AutoresModel {
 
 }
